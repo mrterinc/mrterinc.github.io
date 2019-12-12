@@ -1,19 +1,11 @@
 ---
 layout: page
-title: Research
+title: research
 permalink: /research/
 description: A growing collection of my projects.
 ---
 <strong>Work in Progress</strong>
 
-**Information Avoidance in Reciprocal Decisions**
+**Clients’ Financial Misconduct and Their Reactions to Auditors’ PCAOB Inspection Results**
 
-How the perception of what is right to do change by information? By investigating strategic ignorance and by comparing the effects of ex-ante and ex-post ignorance this project aims to answer following questions: Do people act pro-socially not to suffer from the action(letting others down or causing an unfair outcome) or do they compelled to do so in certain situations to protect their social /self image (to see themselves in the desired way)? Do they avoid observing the consequences of their choices in a rich moral context like reciprocal decisions? Results from the project shows that under exogenous ignorance, selfish behavior increases substantially and strategic ignorance is almost same both in ex-ante and ex-post situations. Which proposes that violations of existing mainstream models on fairness and inequality are driven by the desire to be seen in the desired way to oneself and to others.
-
-**Self-Image Considerations in the Provision of Helpful Feedback - joint with Stefan Meißner**
-
-
-**Fairness vs. Dishonesty - joint with Katrine Berg Nødvedt and Joel Berge**
-
-
-**Reasoning Avoidance - joint with Hallgeir Sjåstad and Steven Sloman**
+The paper aims to explore the consequences of firms’ misconduct-related exposure to regulatory scrutiny due to their auditors’ PCAOB inspection results, focusing on auditor dismissals. Using a text-based proxy measure, the similarity between client’s class action lawsuit filings and auditor’s inspection reports, I explore this exposure during the period of misconduct and the presence of incremental exposure avoidance by clients. The initial findings suggest that, as a salient manifestation of this avoidance, auditor dismissals are more likely for firms whose auditor’s deficiencies, as described in the PCAOB inspection reports, are similar to their alleged financial reporting misconduct, as described in the resulting class action complaint. The overall inspection performance of the auditor, on the other hand, has a negative impact on dismissals. Combined, these results suggest that misconduct firms are not concerned about their auditor’s inferior inspection performance per se, but rather about their inspection findings that particularly relate to their own misconduct.
