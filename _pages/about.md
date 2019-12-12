@@ -17,4 +17,4 @@ I am a PhD candidate in Accounting at Bocconi University. I am interested in aud
 
 Research interests: Audit regulation and transparency, Economics of audit markets
 
-You can check out my CV <a href="https://drive.google.com/open?id=1P82XC8GCjUJoei_eOAsfSplFsLur19wX"><strong> here</strong></a>.
+You can check out my CV <a href="https://drive.google.com/file/d/1P82XC8GCjUJoei_eOAsfSplFsLur19wX/view?usp=sharing"><strong> here</strong></a>.
