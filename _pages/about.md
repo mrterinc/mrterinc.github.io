@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong> Ceren Ay</strong>
-description: <a href="">Norwegian School of Economics, Department of Economics, FAIR - The Choice Lab</a>.
+title: <strong> Mert Erinc</strong>
+description: <a href="">Bocconi University, Department of Accounting</a>.
 
 profile:
   align: right
@@ -13,7 +13,5 @@ news: false
 social: true
 ---
 
-I am a PhD candidate at Norwegian School of Economics. I am affiliated to [FAIR - The Choice Lab](https://www.nhh.no/en/research-centres/fair/research/){:target="\_blank"}. 
-
-My supervisor is [Erik Øiolf Sørensen](https://www.nhh.no/en/employees/faculty/erik-oiolf-sorensen/){:target="\_blank"} and my research mainly focus on information preferences and effects of information in decisions. 
-
+I am a PhD candidate in Accounting at Bocconi University. I am interested in audit regulation and audit market dynamics. In particular, my research focuses on how information on auditors are perceived by their clients and investors.
+Research interests: Audit regulation and transparency, Economics of audit markets
