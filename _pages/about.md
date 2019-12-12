@@ -6,7 +6,7 @@ description: <a href="">Norwegian School of Economics, Department of Economics, 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address: >
 
 news: false
