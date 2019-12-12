@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Mert Erinc
-email: Fehime.ay@nhh.no
+email: mert.erinc@phd.unibocconi.it
 description: > # this means to ignore newlines until "url:"
   My personal website giving information about my academic activities. 
 footer_text: >
@@ -24,7 +24,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: cerenay
+#github_username: # cerenay
 #twitter_username: # your Twitter handle
 #linkedin_username: # your LinkedIn user name
 #scholar_userid: # your Google Scholar ID
@@ -32,11 +32,12 @@ github_username: cerenay
 #medium_username: # your Medium username
 #quora_username: # your Quora username
 #publons_id: # your ID on Publons
-research_gate_profile: Fehime_Ay
+research_gate_profile: Mert_Erinc2
 #blogger_url: # your blogger URL
 
 contact_note: >
-  Fehime.ay@nhh.no ,  Helleveien 30, 5045, Bergen
+  mert.erinc@phd.unibocconi.it
+  Via Roentgen 1, 20136, Milano, Italy
 
 #google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -77,7 +78,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Ay
+  last_name: Erinc
 
   style: apa
   locale: en
