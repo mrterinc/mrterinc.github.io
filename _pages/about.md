@@ -6,7 +6,7 @@ description: <a href="">Bocconi University, Department of Accounting</a>.
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.jpg
   address: >
 
 news: false
