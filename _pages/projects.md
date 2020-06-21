@@ -12,4 +12,4 @@ This paper investigates the consequences of firms’ misconduct-related exposure
 
 <strong>Work in Progress</strong>
 
-**Estimating the Clients’ Demand for Audit Quality**
+<b>Estimating the Clients’ Demand for Audit Quality</b>
