@@ -15,6 +15,6 @@ social: true
 
 I am a PhD candidate in Accounting at Bocconi University. I am interested in audit regulation and audit market dynamics. In particular, my research focuses on how information on auditors are perceived by their clients and investors. My advisor is Angela K. Pettinicchio.
 
-Research interests: Audit regulation and transparency, Economics of audit markets
+Research interests: Audit oversight and transparency, Economics of audit markets, Financial Reporting Misconduct
 
-You can check out my CV <a href="https://drive.google.com/file/d/1P82XC8GCjUJoei_eOAsfSplFsLur19wX/view?usp=sharing"><strong> here</strong></a>.
+You can check out my CV <a href="https://drive.google.com/file/d/1bcsxpLYebWaUwtIPjXxYsZYyw1bFkI4O/view?usp=sharing"><strong> here</strong></a>.
