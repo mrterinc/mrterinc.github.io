@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Mert Erinc
-email: mert.erinc@phd.unibocconi.it
+email: mert.erinc@unibocconi.it
 description: > # this means to ignore newlines until "url:"
   My personal website giving information about my academic activities. 
 footer_text: >
@@ -36,7 +36,7 @@ research_gate_profile: Mert_Erinc2
 #blogger_url: # your blogger URL
 
 contact_note: >
-  mert.erinc@phd.unibocconi.it,
+  mert.erinc@unibocconi.it,
   Via Roentgen 1, 20136, Milano, Italy
 
 #google_analytics: UA-XXXXXXXXX # out your google-analytics code
