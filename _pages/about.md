@@ -6,7 +6,7 @@ description: <a href="https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubb
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mert2.jpg
   address: >
 
 news: false
