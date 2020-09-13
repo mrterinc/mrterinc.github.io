@@ -17,4 +17,4 @@ I am a PhD candidate in Accounting at Bocconi University. I am interested in aud
 
 Research interests: Audit oversight and transparency, Economics of audit markets, Financial Reporting Misconduct
 
-You can check out my CV <a href="https://drive.google.com/file/d/1uRZTx3myeZx5ilfUpYavULoC3IRWnxUw/view?usp=sharing"><strong> here</strong></a>.
+You can check out my CV <a href="assets/pdf/cv_mert.pdf"><strong> here</strong></a>.
