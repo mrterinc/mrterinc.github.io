@@ -2,12 +2,12 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: Courses
+description: Courses I have taught at current institution
 ---
 
-**Financial Accounting - Bocconi University** *Spring 2019/2020*
+*Spring 2019/2020* **Financial Accounting** 
 
-**Accounting - Bocconi University** *Spring 2020/2021*
+*Spring 2020/2021 (Scheduled)* **Accounting** 
 
 
 
