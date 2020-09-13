@@ -1,12 +1,11 @@
 ---
 layout: page
-title: teaching
+title: Courses
 permalink: /teaching/
 description: 
 ---
-<strong>Courses</strong>
 
-**Financial Accounting - Bocconi University , Spring 2019/2020**
+**Financial Accounting - Bocconi University** Spring 2019/2020
 
 
 
