@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: Courses I have taught at current institution
+description: Courses I have taught and teach at my current institution
 ---
 
 *Spring 2019/2020* **Financial Accounting** 
