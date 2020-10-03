@@ -13,5 +13,5 @@ This study investigates the consequences of firms’ misconduct-related exposure
 
 **Estimating the Clients’ Demand for Audit Quality: Evidence from PCAOB Inspection Findings** *with* Angela K. Pettinicchio
 
-The study attempts estimate the clients' demand for audit quality. We use a direct signal of audit quality observable by clients, the auditor's inspection performance, play a role in clients' auditor choices. In order to determine this impact as precisely as possible, we adopt the discrete choice demand estimation framework. We find that demand for auditors decreases with the amount of deficiency findings auditors receive.
+The study attempts to estimate clients' demand for audit quality. We use a direct signal of audit quality observable by clients, the auditor's inspection performance, play a role in clients' auditor choices. In order to determine this impact as precisely as possible, we adopt the discrete choice demand estimation framework. We find that demand for auditors decreases with the amount of deficiency findings auditors receive.
 
