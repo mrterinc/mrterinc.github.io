@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Courses I have taught and teach at my current institution
 ---
 
-Teaching
+**Teaching**
 
 *Spring 2019/2020* - Financial Accounting
 
@@ -14,6 +14,6 @@ Teaching
  
  
 
-Teaching Assistance
+**Teaching Assistance**
 
 *Spring 2020/2021 (Scheduled)* - Accounting Theory
