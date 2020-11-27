@@ -13,7 +13,7 @@ news: false
 social: true
 ---
 
-I am a PhD candidate in Accounting at Bocconi University. My primary topics of interest are audit oversight, audit transparency and audit market dynamics. In particular, my research focuses on how information on auditors are perceived by their clients and investors. My advisor is Angela K. Pettinicchio. I will participate in the EAA Talent Workshop this fall.
+I am a PhD candidate in Accounting at Bocconi University. My primary topics of interest are audit oversight, audit transparency and audit market dynamics. In particular, my research focuses on how information on auditors are perceived by their clients and investors. My advisor is Angela K. Pettinicchio. I will be on the European Accounting Job Market this year.
 
 Research interests: Audit oversight and transparency, economics of audit markets, financial reporting misconduct
 
