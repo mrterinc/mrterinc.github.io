@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong> Mert Erinc</strong>
-description: <a href="https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Accounting/">Bocconi University, Department of Accounting</a>.
+description: <a href="https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Accounting/">BI Norwegian Business School, Department of Accounting and Operations Management</a>.
 
 profile:
   align: right
