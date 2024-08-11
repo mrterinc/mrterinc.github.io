@@ -10,7 +10,9 @@ description:
 
 This study is a quasi-replication and extension of Bae et al. (2017), which examines the relationship between auditors’ characteristics and their audit clients’ investment efficiency. Whereas Bae et al. (2017) use U.S. public firm data, we draw a more general picture by using both public and private firm data from Norway. Overall, the results for Norwegian public and private firms are in line with those Bae et al. (2017) find for public U.S. firms. That is, audit clients invest more efficiently if their auditors have more knowledge and resources, measured by auditor market shares or whether a Big N audit firm performs the audit. Further, an auditor’s influence on its client’s investment efficiency is more pronounced when clients have a higher demand for information, proxied by client complexity. Finally, exploiting a regulatory change in 2011 that allowed small private Norwegian firms to opt out of previously mandatory auditing, we extend the study by Bae et al. (2017). We find that audits can increase investment efficiency for small private firms. Specifically, firms that dismiss their auditors tend to overinvest more than similar firms that are not eligible to opt out of auditing. Further, firms that voluntarily keep their auditor have an overall higher investment efficiency than similar firms that are not audited. 
 
+Bleibtreu, C., Erinc, M., Orozco, L., & Shi, Z. (2024). Auditors and client investment efficiency: a quasi-replication and further insights from a regulatory change. Journal of Business Economics, 1-38.
 
+[Link to paper](https://link.springer.com/10.1007/s11573-024-01198-4)
 
 <strong>Working Papers</strong>
 
@@ -18,6 +20,7 @@ This study is a quasi-replication and extension of Bae et al. (2017), which exam
 
 We develop a new auditor-client fit metric that is based on topical compatibility between auditors and their clients by combining the results of PCAOB inspections with clients’ disclosures of their critical accounting policies. We show that auditor fit is negatively related to several traditional proxies of audit quality, including restatements, abnormal accruals, and Dechow-Dichev discretionary accruals. We document that the market reacts more strongly to the earnings of clients with greater auditor-client compatibility, providing more confidence in our new proxy. Moreover, we report that our new proxy performs better than traditional measures of auditor-client compatibility, such as over twenty versions of industry specialization. Finally, we document that auditor fit is positively associated with higher levels of real earnings management, consistent with stronger auditor oversight imposing higher costs on accrual earnings management. Our proxy demonstrates the importance of the results of PCAOB’s inspections, especially when combined with mandatory disclosures about companies’ critical accounting policies. 
 
+[Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4703916)
 
 **Auditing on the Edge: Spillover Effects of Having an Exposed Client** with Stavriana Hadjigavriel
 
