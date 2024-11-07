@@ -14,6 +14,8 @@ Bleibtreu, C., Erinc, M., Orozco, L., & Shi, Z. (2024). Auditors and client inve
 
 [Link to paper](https://link.springer.com/10.1007/s11573-024-01198-4)
 
+[Link to an article on our paper](https://www.bi.edu/research/business-review/articles/2024/10/how-auditor-expertise-can-boost-companies-returns-on-investments/)
+
 <strong>Working Papers</strong>
 
 **Auditor-Client Compatibility and Audit Quality** with Tzachi Zach
