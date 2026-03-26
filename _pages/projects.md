@@ -26,9 +26,11 @@ We develop a new auditor-client fit metric based on topical compatibility betwee
 
 [Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4703916)
 
-**Auditing on the Edge: Spillover Effects of Having an Exposed Client** _with Stavriana Hadjigavriel_
+**When the Spotlight Burns: Spillover Effects of Negative Media Coverage** _with Stavriana Hadjigavriel_
 
 This study examines whether negative media exposure faced by an audit client generates adverse spillover effects on the audit quality of other clients that share the same auditor. Using a sample of U.S. fraud-related events, we analyze how audit quality varies within audit offices exposed to negative media scrutiny. Employing a robust empirical identification strategy as well as the staggered closure of major newspapers as an exogenous shock to local media exposure,  we find that when the accusation date of a targeted client coincides with the audit period of another client, the latter experiences a significant deterioration in audit quality. The effect is concentrated among clients operating in a different industry than the targeted firm, older audit engagements, smaller clients, and firms with lower analyst coverage. Additional tests show that the negative externalities of media scrutiny extend to the audit partners involved. Overall, our findings reveal a previously overlooked externality of media exposure that extends beyond the informal oversight role emphasized in prior literature, with important policy implications for evaluating audit quality and partner–client assignments under capacity and workload constraints.
+
+[Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5388528)
 
 **Clients’ Financial Misconduct and Their Reactions to Auditors’ PCAOB Inspection Results**
 
