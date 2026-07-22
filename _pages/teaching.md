@@ -9,6 +9,6 @@ description: Courses I have taught and teach at my current institution
 
 [Course Syllabus](https://portal.bi.no/kurs#/course/en/MST/0420/202620)
 
-*Spring 2027* - MST0420 Auditing II
+*Spring 2027* - MST0047 Auditing II
 
 [Course Syllabus](https://portal.bi.no/kurs#/course/en/MST/0047/202710)
