@@ -9,7 +9,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-url: # should be empty
+url: https://mrterinc.github.io # site root; used for canonical and Open Graph URLs
 baseurl:  # should be empty
 last_updated: # leave blank if you don't want to display last updated
 
@@ -19,16 +19,16 @@ last_updated: # leave blank if you don't want to display last updated
 # Display links to the page with a preview object on social media.
 # To achieve this, change serve_og_meta to true and then provide the URL of the
 # preview image as the value of og_image.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+og_image: https://mrterinc.github.io/assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-#github_username: # cerenay
+github_username: mrterinc
 #twitter_username: # your Twitter handle
-#linkedin_username: # your LinkedIn user name
-#scholar_userid: # your Google Scholar ID
-#orcid_id: # your ORCID ID
+linkedin_username: mert-erinc-29752827
+scholar_userid: dvoshcQAAAAJ
+orcid_id: 0000-0002-4498-5812
 #medium_username: # your Medium username
 #quora_username: # your Quora username
 #publons_id: # your ID on Publons
@@ -39,7 +39,10 @@ contact_note: >
   mert.erinc@bi.no,
   Nydalsveien 37, 0484 Oslo, Norway
 
-#google_analytics: UA-XXXXXXXXX # out your google-analytics code
+# Analytics. The old Universal Analytics property stopped collecting data in July 2023 and
+# has been removed. To turn analytics back on, create a site at goatcounter.com and put its
+# code here (the subdomain only, e.g. mrterinc for mrterinc.goatcounter.com).
+#goatcounter_code:
 
 # -----------------------------------------------------------------------------
 # Collections
