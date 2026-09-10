@@ -10,7 +10,7 @@ description:
 
 This study is a quasi-replication and extension of Bae et al. (2017), which examines the relationship between auditors’ characteristics and their audit clients’ investment efficiency. Whereas Bae et al. (2017) use U.S. public firm data, we draw a more general picture by using both public and private firm data from Norway, and find that audit clients invest more efficiently if their auditors have more knowledge and resources. Exploiting a regulatory change in 2011 that allowed small private Norwegian firms to opt out of previously mandatory auditing, we further show that audits can increase investment efficiency for small private firms.
 
-Bleibtreu, C., Erinc, M., Orozco, L., & Shi, Z. (2025). Auditors and client investment efficiency: a quasi-replication and further insights from a regulatory change. Journal of Business Economics, 95(2), 257-294.
+Bleibtreu, C., Erinc, M., Orozco, L., & Shi, Z. (2025). Auditors and client investment efficiency: a quasi-replication and further insights from a regulatory change. _Journal of Business Economics, 95_(2), 257-294.
 
 [Link to paper](https://link.springer.com/10.1007/s11573-024-01198-4)
 
