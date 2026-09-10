@@ -33,6 +33,9 @@ This study examines whether negative media exposure faced by an audit client gen
 
 [Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5388528)
 
-**Unintended Consequences of Auditor Deficiencies’ Public Disclosure**
+**PCAOB Inspection Report Content and Auditor Dismissals: Evidence from Securities Class Actions**
 
-This study explores a dilemma that fraudulent companies face when their auditor is found deficient by the PCAOB: to retain or dismiss the deficient auditor. A non-deficient auditor can constrain the client’s ability to manipulate financial statements, whereas a deficient auditor may overlook the issues but attracts more regulatory attention to its engagements. Using a sample of class-action lawsuits and a novel measure tailored to capture the resulting exposure, I find that auditor dismissals are more likely to occur when the auditor’s deficiencies relate to the clients’ misconduct, that this behavior is attributable to powerful CFOs, and that dismissals help clients to delay litigation.
+I examine whether clients with misconduct that aligns with their auditor’s publicly disclosed deficiency areas are more likely to dismiss that auditor. Using a sample of U.S. securities class action cases with fiscal years from 2005 to 2024, I construct a text-based measure of misconduct-related regulatory exposure that captures the topical overlap between the allegations in each complaint and the deficiency findings in the auditor’s most recent PCAOB inspection report. I find that higher misconductrelated regulatory exposure predicts a greater probability of subsequent auditor dismissal, and this relation holds after entropy balancing and under a stricter definition of dismissal. The relation is present among clients of auditors with low overall deficiency rates, where a rare area of weakness that matches the client’s misconduct is a more precise signal of
+detection risk than the same overlap at an auditor that is deficient across many areas. These results suggest that firms respond to publicly observable information about auditor weaknesses when they perceive those weaknesses as directly relevant to their own misconduct.
+
+[Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7443158)
